@@ -1,7 +1,7 @@
 # TextGenerator
 Class for generate text from a context.
 
-## Simple:
+### Simple:
   Generate pure random text
   
 
@@ -9,7 +9,7 @@ Class for generate text from a context.
   Generate random text using frequency distribution
   
 
-### HiddenMarkoModel
+### HiddenMarkoModel:
   Generate random text using co-occurences, so create a text based on the frequency of the following word given a context word.
   
 
